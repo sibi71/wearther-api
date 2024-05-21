@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://images6.alphacoders.com/369/thumb-1920-369573.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+    text-decoration: underline black;
+}
+.input-area{
+    margin-top: 10%;
+    display: block;
+}
+.input-box{
+    height: 40px;
+}
